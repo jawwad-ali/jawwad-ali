@@ -13,10 +13,10 @@
 
 - 🔭 I’m currently working as a Full time freelancer on <strong>Upwork</strong>
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning React Native and Cloud Computing using AWS Cloud Development Kit (CDK)
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to provide solutions to complicated problems.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 💬 Ask me about React.js, Gatsby.js, Next,js.
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
