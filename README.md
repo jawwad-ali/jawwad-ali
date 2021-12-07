@@ -38,6 +38,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://twitter.com/alijawwad1995'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.facebook.com/ali.jawwad.56'> <img width = '32px' align= 'center' src="https://image.pngaaa.com/358/67358-middle.png"/></a> 
+<a href = 'https://www.facebook.com/ali.jawwad.56'> <img  align= 'center' src="https://image.pngaaa.com/358/67358-middle.png"/></a> 
 <a href = 'https://www.github.com/jawwad-ali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.linkedin.com/in/ali-jawwad-225a48216/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
