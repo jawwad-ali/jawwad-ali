@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working as a Full time freelancer on <strong>Upwork</strong>
   
-- 🌱 I’m currently learning React Native and Cloud Computing using AWS Cloud Development Kit (CDK)
+- 🌱 I’m currently learning React Native and Cloud Computing using AWS Cloud Development Kit (CDK) for highly-scalable apps.
   
 - 👯 I’m looking to provide solutions to complicated problems.
   
-- 💬 Ask me about React.js, Gatsby.js, Next,js.
+- 💬 Ask me about Gatsby.js, Next,js, Serverless, and PWA's to create highly-scalable and hybrid web apps.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -39,6 +39,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://twitter.com/alijawwad1995'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.upwork.com/freelancers/~01ca7cb675ae58479b'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/upwork.svg"/></a> 
 <a href = 'https://www.facebook.com/ali.jawwad.56'> <img width="32px"  align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/1200px-Facebook_icon_%28black%29.svg.png"/></a> 
 <a href = 'https://www.github.com/jawwad-ali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.linkedin.com/in/ali-jawwad-225a48216/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
