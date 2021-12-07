@@ -11,7 +11,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working as a Full time freelancer on <img src="https://mms.businesswire.com/media/20210504005942/en/875803/22/NEW_Upwork_Logo.jpg" width=100 height=30 />
+- 🔭 I’m currently working as a Full time freelancer on <img src="https://mms.businesswire.com/media/20210504005942/en/875803/22/NEW_Upwork_Logo.jpg" width=100 height=100 />
   
 - 🌱 I’m currently learning Git, Java y GitHub
   
