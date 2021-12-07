@@ -34,3 +34,9 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jawwad-ali&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwad-ali)
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://twitter.com/alijawwad1995'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+
+<a href = 'https://www.facebook.com/ali.jawwad.56'> <img width = '32px' align= 'center' src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png"/></a> 
