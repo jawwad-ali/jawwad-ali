@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif">
 </p>
 
 
