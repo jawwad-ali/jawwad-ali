@@ -30,10 +30,11 @@
 <code><img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></code>
 <code><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 
+<br />
+<br />
+<br />
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jawwad-ali&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwad-ali)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwad-ali&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jawwad-ali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
