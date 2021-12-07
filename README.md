@@ -36,9 +36,6 @@
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwad-ali&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jawwad-ali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-[![Ali Jawwad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jawwad-ali&theme=tokyonight)](https://git.io/praveenscience)
-
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://twitter.com/alijawwad1995'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.upwork.com/freelancers/~01ca7cb675ae58479b'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/upwork.svg"/></a> 
